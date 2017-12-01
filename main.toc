@@ -1,0 +1,103 @@
+\vskip 35pt
+\SingleSpacing 
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{{Acknowledgements}}{iii}{chapter*.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{{Abstract}}{v}{chapter*.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Table of Contents}{vi}{section*.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {1}Introduction}{1}{chapter.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}Previous Work and Connections}{4}{section.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}Allowing Randomization}{4}{section.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.3}Preliminaries}{5}{section.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Notations - Projective spaces of linear forms}{5}{section*.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.4}A quick introduction to arithmetic circuits}{9}{section.1.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Polynomial computed by an arithmetic circuit, \cite {SY10} }{10}{section*.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Depth three circuits, \cite {SY10}}{10}{section*.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Depth three circuits with top fan-in $2$}{11}{section*.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Previous (relevant) results about depth three circuits}{11}{section*.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.5}Homogenization of $\Sigma \Pi \Sigma (2)$ circuits}{12}{section.1.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {2}Some Definitions, Main Tools and Techniques}{14}{chapter.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Introduction}{14}{section.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Uniqueness of $\Sigma \Pi \Sigma (2)$ Structure}{16}{section.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}Factoring forms of a polynomial}{17}{section.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Factoring forms for $\Sigma \Pi \Sigma (2)$ polynomials}{17}{section*.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.4} Good forms and reconstructed multi-set}{20}{section.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {3}Main result and overview}{24}{chapter.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Overview of the algorithm }{24}{section.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Step I - Reconstruct I$^{st}$ layer of the circuit}{24}{section*.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Step II - Reconstruct II$^{nd}$ layer of the circuit}{26}{section*.11}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {4}Step One : Reconstruct the I$^{\text {st}}$ Layer of $C$ }{28}{chapter.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}Introduction}{28}{section.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}Random Transformation}{30}{section.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Assumption - Independence preserving restrictions of the intersection set }{30}{section*.12}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.3}Restricting the input polynomial}{32}{section.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.4}Computing the sets $\mathcal {P}_i$. }{33}{section.4.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Algorithm. }{34}{section*.13}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.5}Gluing $\mathcal {P}_i$'s to compute $\mathcal {P}$}{35}{section.4.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {5}Step Two : Reconstruct Layer II of $C$}{39}{chapter.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.1}Introduction}{39}{section.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.2}Lines connecting forms in $\mathbb {P}(R)$ ($\mathbb {P}(B)$ resp.) to $\mathbb {P}(M_2)$($\mathbb {P}(M_1)$ resp.) }{40}{section.5.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.3}Termination Case : Reconstructing one of $\mathbb {P}(M_1),\mathbb {P}(M_2)$ does the job}{42}{section.5.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.4}One of the multi-sets $\mathbb {P}(R),\mathbb {P}(B)$ is low dimensional}{45}{section.5.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.5}Both multi-sets $\mathbb {P}(R),\mathbb {P}(B)$ are high dimensional}{48}{section.5.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Bibliography}{56}{section*.15}
+\defcounter {refsection}{0}\relax 
+\renewcommand {\chaptername }{Appendix} 
+\defcounter {refsection}{0}\relax 
+\contentsline {appendix}{\chapternumberline {A}Random Transformation and Restrictions}{60}{appendix.A}
+\defcounter {refsection}{0}\relax 
+\contentsline {appendix}{\chapternumberline {B}Brill's Equations - Characterizing polynomials which are product of linear forms}{64}{appendix.B}
+\defcounter {refsection}{0}\relax 
+\contentsline {appendix}{\chapternumberline {C}Black-box Factoring of Polynomials}{67}{appendix.C}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Goals for this chapter. }{67}{section*.16}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Black-box access to factors. }{67}{section*.17}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Algorithm}{68}{section*.18}
+\defcounter {refsection}{0}\relax 
+\contentsline {appendix}{\chapternumberline {D}Proofs from Chapter IV}{70}{appendix.D}
+\defcounter {refsection}{0}\relax 
+\contentsline {appendix}{\chapternumberline {E}Proofs from Chapter V}{72}{appendix.E}
+\defcounter {refsection}{0}\relax 
+\contentsline {appendix}{\chapternumberline {F}Tools from Incidence Geometry}{76}{appendix.F}
+\defcounter {refsection}{0}\relax 
+\contentsline {appendix}{\chapternumberline {G}Consent Form}{78}{appendix.G}

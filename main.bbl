@@ -1,0 +1,858 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist{entry}{nty}
+    \entry{Agr05}{inproceedings}{}
+      \name{labelname}{1}{}{%
+        {{hash=643dfbd788f89e01e0d8f3dcfca6a7c8}{Agrawal}{A\bibinitperiod}{Manindra}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=643dfbd788f89e01e0d8f3dcfca6a7c8}{Agrawal}{A\bibinitperiod}{Manindra}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{643dfbd788f89e01e0d8f3dcfca6a7c8}
+      \strng{fullhash}{643dfbd788f89e01e0d8f3dcfca6a7c8}
+      \field{sortinit}{A}
+      \field{labeltitle}{Proving lower bounds via pseudo-random generators}
+      \field{booktitle}{FSTTCS 2005: Foundations of Software Technology and Theoretical Computer Science, 25th International Conference, Hyderabad, India, December 15-18, 2005, Proceedings, volume 3821 of Lecture}
+      \field{title}{Proving lower bounds via pseudo-random generators}
+      \field{year}{2005}
+      \field{pages}{92\bibrangedash 105}
+    \endentry
+    \entry{ArMS08}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=7ec6df1c269e04172e8d3f61840aa24b}{Arvind}{A\bibinitperiod}{V.}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=5ed279fd6f84609b460369c020f2cf8d}{Mukhopadhyay}{M\bibinitperiod}{Partha}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=7f16294a215160a4add6dc00f88a3800}{Srinivasan}{S\bibinitperiod}{Srikanth}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=7ec6df1c269e04172e8d3f61840aa24b}{Arvind}{A\bibinitperiod}{V.}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=5ed279fd6f84609b460369c020f2cf8d}{Mukhopadhyay}{M\bibinitperiod}{Partha}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=7f16294a215160a4add6dc00f88a3800}{Srinivasan}{S\bibinitperiod}{Srikanth}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Los Alamitos, CA, USA}%
+      }
+      \list{publisher}{1}{%
+        {IEEE Computer Society}%
+      }
+      \strng{namehash}{40f4e77dfd586c338e5602177dec0732}
+      \strng{fullhash}{40f4e77dfd586c338e5602177dec0732}
+      \field{sortinit}{A}
+      \field{labeltitle}{New Results on Noncommutative and Commutative Polynomial Identity Testing}
+      \field{issn}{1093-0159}
+      \field{journaltitle}{2012 IEEE 27th Conference on Computational Complexity}
+      \field{title}{New Results on Noncommutative and Commutative Polynomial Identity Testing}
+      \field{year}{2008}
+      \field{pages}{268\bibrangedash 279}
+      \verb{doi}
+      \verb http://doi.ieeecomputersociety.org/10.1109/CCC.2008.22
+      \endverb
+    \endentry
+    \entry{BDWY11}{inproceedings}{}
+      \name{labelname}{4}{}{%
+        {{hash=f502755fcdd9c90ee077e47ba6ca2593}{Barak}{B\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=383e60598442a02c16f3d74aea5e8120}{Dvir}{D\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=d16dae36eb11612307a37a7592951231}{Wigderson}{W\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=e125f938379104bf498cc8bfedf35602}{Yehudayoff}{Y\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=f502755fcdd9c90ee077e47ba6ca2593}{Barak}{B\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=383e60598442a02c16f3d74aea5e8120}{Dvir}{D\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=d16dae36eb11612307a37a7592951231}{Wigderson}{W\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=e125f938379104bf498cc8bfedf35602}{Yehudayoff}{Y\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {San Jose, California, USA}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{a4f089011b82d922c13355436a28789c}
+      \strng{fullhash}{56a28848f086afbecc5a40e4c8d15307}
+      \field{sortinit}{B}
+      \field{labeltitle}{\textbf{Rank bounds for design matrices with applications to combinatorial geometry and locally correctable codes}}
+      \field{booktitle}{Proceedings of the 43rd annual ACM symposium on Theory of computing}
+      \field{isbn}{978-1-4503-0691-1}
+      \field{series}{STOC '11}
+      \field{title}{\textbf{Rank bounds for design matrices with applications to combinatorial geometry and locally correctable codes}}
+      \field{year}{2011}
+      \field{pages}{519\bibrangedash 528}
+      \verb{url}
+      \verb ./BDWY11.pdf
+      \endverb
+    \endentry
+    \entry{BBB00}{article}{}
+      \name{labelname}{5}{}{%
+        {{hash=47254bf664575cd15357f7189868090b}{Beimel}{B\bibinitperiod}{Amos}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=ff6514a811bc693ec6d34573f442dd6e}{Bergadano}{B\bibinitperiod}{Francesco}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=2d02ead1d70d2f7ac73d816e15aeff40}{Bshouty}{B\bibinitperiod}{Nader\bibnamedelima H.}{N\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=63311d7e0af6f4f199f74b05ab7a5c52}{Kushilevitz}{K\bibinitperiod}{Eyal}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=a52a862e9d0fb72e70d2a0a644a0c41d}{Varricchio}{V\bibinitperiod}{Stefano}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=47254bf664575cd15357f7189868090b}{Beimel}{B\bibinitperiod}{Amos}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=ff6514a811bc693ec6d34573f442dd6e}{Bergadano}{B\bibinitperiod}{Francesco}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=2d02ead1d70d2f7ac73d816e15aeff40}{Bshouty}{B\bibinitperiod}{Nader\bibnamedelima H.}{N\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=63311d7e0af6f4f199f74b05ab7a5c52}{Kushilevitz}{K\bibinitperiod}{Eyal}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=a52a862e9d0fb72e70d2a0a644a0c41d}{Varricchio}{V\bibinitperiod}{Stefano}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{9631e65f38cbe0551d3820d0a0bd8f5f}
+      \strng{fullhash}{0f75edd128a6d4243fc55a7d615c4ff2}
+      \field{sortinit}{B}
+      \field{labeltitle}{Learning Functions Represented As Multiplicity Automata}
+      \field{issn}{0004-5411}
+      \field{journaltitle}{J. ACM}
+      \field{month}{05}
+      \field{number}{3}
+      \field{title}{Learning Functions Represented As Multiplicity Automata}
+      \field{volume}{47}
+      \field{year}{2000}
+      \field{pages}{506\bibrangedash 530}
+      \verb{doi}
+      \verb 10.1145/337244.337257
+      \endverb
+      \verb{url}
+      \verb http://doi.acm.org/10.1145/337244.337257
+      \endverb
+      \keyw{DNF,computational learning,learning disjoint,learning polynomials,multiplicity automata}
+    \endentry
+    \entry{Buc76}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=5714365f119e970653ff9fa31edc5c31}{Buchberger}{B\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=5714365f119e970653ff9fa31edc5c31}{Buchberger}{B\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{5714365f119e970653ff9fa31edc5c31}
+      \strng{fullhash}{5714365f119e970653ff9fa31edc5c31}
+      \field{sortinit}{B}
+      \field{labeltitle}{A Theoretical Basis for the Reduction of Polynomials to Canonical Forms}
+      \field{issn}{0163-5824}
+      \field{journaltitle}{SIGSAM Bull.}
+      \field{month}{08}
+      \field{number}{3}
+      \field{title}{A Theoretical Basis for the Reduction of Polynomials to Canonical Forms}
+      \field{volume}{10}
+      \field{year}{1976}
+      \field{pages}{19\bibrangedash 29}
+      \verb{doi}
+      \verb 10.1145/1088216.1088219
+      \endverb
+      \verb{url}
+      \verb http://doi.acm.org/10.1145/1088216.1088219
+      \endverb
+    \endentry
+    \entry{DSW12}{unpublished}{}
+      \name{labelname}{3}{}{%
+        {{hash=383e60598442a02c16f3d74aea5e8120}{Dvir}{D\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=5e3d34c6d491398b577f3d4b9fb76f31}{Saraf}{S\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=d16dae36eb11612307a37a7592951231}{Wigderson}{W\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=383e60598442a02c16f3d74aea5e8120}{Dvir}{D\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=5e3d34c6d491398b577f3d4b9fb76f31}{Saraf}{S\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=d16dae36eb11612307a37a7592951231}{Wigderson}{W\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{4b2c1b597c86db04e46a439b8424eba2}
+      \strng{fullhash}{4b2c1b597c86db04e46a439b8424eba2}
+      \field{sortinit}{D}
+      \field{labeltitle}{\textbf{Improved rank bounds for design matrices and a new proof of {K}elly's theorem.}}
+      \field{note}{Forum of mathematics - Sigma (to appear)}
+      \field{title}{\textbf{Improved rank bounds for design matrices and a new proof of {K}elly's theorem.}}
+      \field{year}{2012}
+      \verb{url}
+      \verb DSW12.pdf
+      \endverb
+    \endentry
+    \entry{Dvir2014}{inbook}{}
+      \name{labelname}{3}{}{%
+        {{hash=0549a36d310cfdfa89bdbf12368ad4e4}{Dvir}{D\bibinitperiod}{Zeev}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=840e11898830b4d28c4c2c2af69de57a}{Oliveira}{O\bibinitperiod}{Rafael\bibnamedelima Mendes}{R\bibinitperiod\bibinitdelim M\bibinitperiod}{de}{d\bibinitperiod}{}{}}%
+        {{hash=6926c3d236eb16c0bda5cc1284784fac}{Shpilka}{S\bibinitperiod}{Amir}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=0549a36d310cfdfa89bdbf12368ad4e4}{Dvir}{D\bibinitperiod}{Zeev}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=840e11898830b4d28c4c2c2af69de57a}{Oliveira}{O\bibinitperiod}{Rafael\bibnamedelima Mendes}{R\bibinitperiod\bibinitdelim M\bibinitperiod}{de}{d\bibinitperiod}{}{}}%
+        {{hash=6926c3d236eb16c0bda5cc1284784fac}{Shpilka}{S\bibinitperiod}{Amir}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=aae57fe3f3726fcbced8c287c38380ec}{Esparza}{E\bibinitperiod}{Javier}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=f83cac82e3659c3779e322e5f584ec55}{Fraigniaud}{F\bibinitperiod}{Pierre}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=7a31971ced777f2ed7c77a272fa934eb}{Husfeldt}{H\bibinitperiod}{Thore}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=f81629c0f5e52ce4382d4a7280ce542c}{Koutsoupias}{K\bibinitperiod}{Elias}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{35d6b41f9a14b50a7854fd10d4e3615b}
+      \strng{fullhash}{35d6b41f9a14b50a7854fd10d4e3615b}
+      \field{sortinit}{D}
+      \field{labeltitle}{Automata, Languages, and Programming: 41st International Colloquium, ICALP 2014, Copenhagen, Denmark, July 8-11, 2014, Proceedings, Part I}
+      \field{chapter}{Testing Equivalence of Polynomials under Shifts}
+      \field{isbn}{978-3-662-43948-7}
+      \field{title}{Automata, Languages, and Programming: 41st International Colloquium, ICALP 2014, Copenhagen, Denmark, July 8-11, 2014, Proceedings, Part I}
+      \field{year}{2014}
+      \field{pages}{417\bibrangedash 428}
+      \verb{doi}
+      \verb 10.1007/978-3-662-43948-7_35
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1007/978-3-662-43948-7_35
+      \endverb
+    \endentry
+    \entry{DS07}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=0549a36d310cfdfa89bdbf12368ad4e4}{Dvir}{D\bibinitperiod}{Zeev}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=6926c3d236eb16c0bda5cc1284784fac}{Shpilka}{S\bibinitperiod}{Amir}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=0549a36d310cfdfa89bdbf12368ad4e4}{Dvir}{D\bibinitperiod}{Zeev}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=6926c3d236eb16c0bda5cc1284784fac}{Shpilka}{S\bibinitperiod}{Amir}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{68ccf031b8cf397928d175d98abd78e8}
+      \strng{fullhash}{68ccf031b8cf397928d175d98abd78e8}
+      \field{sortinit}{D}
+      \field{labeltitle}{Locally decodable codes with 2 queries and polynomial identity testing for depth 3 circuits}
+      \field{journaltitle}{SIAM J. COMPUT}
+      \field{number}{5}
+      \field{title}{Locally decodable codes with 2 queries and polynomial identity testing for depth 3 circuits}
+      \field{volume}{36}
+      \field{year}{2007}
+      \field{pages}{1404\bibrangedash 1434}
+    \endentry
+    \entry{GKZ94}{book}{}
+      \name{labelname}{3}{}{%
+        {{hash=222488d3400bbacf64f09f54ce195690}{Gelfand}{G\bibinitperiod}{Izrail\bibnamedelima Moiseevitch}{I\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=93053c3b64bb1091d3c3394df3a88b81}{Kapranov}{K\bibinitperiod}{Mikhail\bibnamedelima M.}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=d380f9e6ab741911484e79a4cb90fba0}{Zelevinsky}{Z\bibinitperiod}{Andrei\bibnamedelima V.}{A\bibinitperiod\bibinitdelim V\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=222488d3400bbacf64f09f54ce195690}{Gelfand}{G\bibinitperiod}{Izrail\bibnamedelima Moiseevitch}{I\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=93053c3b64bb1091d3c3394df3a88b81}{Kapranov}{K\bibinitperiod}{Mikhail\bibnamedelima M.}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=d380f9e6ab741911484e79a4cb90fba0}{Zelevinsky}{Z\bibinitperiod}{Andrei\bibnamedelima V.}{A\bibinitperiod\bibinitdelim V\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Boston, Basel, Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Birkhäuser}%
+      }
+      \strng{namehash}{68f7f7513af0108b65023c253f23ade1}
+      \strng{fullhash}{68f7f7513af0108b65023c253f23ade1}
+      \field{sortinit}{G}
+      \field{labeltitle}{Discriminants, resultants, and multidimensional determinants}
+      \field{isbn}{0-8176-3660-9}
+      \field{note}{Autre tirage de l'édition Birkhäuser chez Springer Science+ Business Media}
+      \field{series}{Mathematics : theory \& applications}
+      \field{title}{Discriminants, resultants, and multidimensional determinants}
+      \field{year}{1994}
+      \verb{url}
+      \verb http://opac.inria.fr/record=b1103027
+      \endverb
+    \endentry
+    \entry{OGM86}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=66aba379c7d3adb8af5b662a65c4c140}{Goldreich}{G\bibinitperiod}{Oded}{O\bibinitperiod}{}{}{}{}}%
+        {{hash=39e4a0690915f1d991133196a545b37b}{Goldwasser}{G\bibinitperiod}{Shafi}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=fb54c363f1b0d126e883c84df49e4790}{Micali}{M\bibinitperiod}{Silvio}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=66aba379c7d3adb8af5b662a65c4c140}{Goldreich}{G\bibinitperiod}{Oded}{O\bibinitperiod}{}{}{}{}}%
+        {{hash=39e4a0690915f1d991133196a545b37b}{Goldwasser}{G\bibinitperiod}{Shafi}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=fb54c363f1b0d126e883c84df49e4790}{Micali}{M\bibinitperiod}{Silvio}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{39e304099b960365cdb56b83f4c70df6}
+      \strng{fullhash}{39e304099b960365cdb56b83f4c70df6}
+      \field{sortinit}{G}
+      \field{labeltitle}{How to Construct Random Functions}
+      \field{issn}{0004-5411}
+      \field{journaltitle}{J. ACM}
+      \field{month}{08}
+      \field{number}{4}
+      \field{title}{How to Construct Random Functions}
+      \field{volume}{33}
+      \field{year}{1986}
+      \field{pages}{792\bibrangedash 807}
+      \verb{doi}
+      \verb 10.1145/6490.6503
+      \endverb
+      \verb{url}
+      \verb http://doi.acm.org/10.1145/6490.6503
+      \endverb
+    \endentry
+    \entry{GuptaKL12}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=e879c19d2676918825359f7d93d110ca}{Gupta}{G\bibinitperiod}{Ankit}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=132a91296a099d008b0c152b456ec45a}{Kayal}{K\bibinitperiod}{Neeraj}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=c6c086dfa11c2dbc6363e554569d2f17}{Lokam}{L\bibinitperiod}{Satya}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=e879c19d2676918825359f7d93d110ca}{Gupta}{G\bibinitperiod}{Ankit}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=132a91296a099d008b0c152b456ec45a}{Kayal}{K\bibinitperiod}{Neeraj}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=c6c086dfa11c2dbc6363e554569d2f17}{Lokam}{L\bibinitperiod}{Satya}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {New York, New York, USA}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{720ee3730d54b98624242b86a9c5096b}
+      \strng{fullhash}{720ee3730d54b98624242b86a9c5096b}
+      \field{sortinit}{G}
+      \field{labeltitle}{Reconstruction of Depth-4 Multilinear Circuits with Top Fan-in 2}
+      \field{booktitle}{Proceedings of the Forty-fourth Annual ACM Symposium on Theory of Computing}
+      \field{isbn}{978-1-4503-1245-5}
+      \field{series}{STOC '12}
+      \field{title}{Reconstruction of Depth-4 Multilinear Circuits with Top Fan-in 2}
+      \field{year}{2012}
+      \field{pages}{625\bibrangedash 642}
+      \verb{doi}
+      \verb 10.1145/2213977.2214035
+      \endverb
+      \verb{url}
+      \verb http://doi.acm.org/10.1145/2213977.2214035
+      \endverb
+      \keyw{algebraic complexity,circuit reconstruction}
+    \endentry
+    \entry{GuptaKL11}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=e879c19d2676918825359f7d93d110ca}{Gupta}{G\bibinitperiod}{Ankit}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=132a91296a099d008b0c152b456ec45a}{Kayal}{K\bibinitperiod}{Neeraj}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=28af3078e080b38931303ba7e253f7ab}{Lokam}{L\bibinitperiod}{Satyanarayana\bibnamedelima V.}{S\bibinitperiod\bibinitdelim V\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=e879c19d2676918825359f7d93d110ca}{Gupta}{G\bibinitperiod}{Ankit}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=132a91296a099d008b0c152b456ec45a}{Kayal}{K\bibinitperiod}{Neeraj}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=28af3078e080b38931303ba7e253f7ab}{Lokam}{L\bibinitperiod}{Satyanarayana\bibnamedelima V.}{S\bibinitperiod\bibinitdelim V\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{38f7ecd94eca4d78a0033b0470d809b1}
+      \strng{fullhash}{38f7ecd94eca4d78a0033b0470d809b1}
+      \field{sortinit}{G}
+      \field{labeltitle}{Efficient Reconstruction of Random Multilinear Formulas}
+      \field{booktitle}{{IEEE} 52nd Annual Symposium on Foundations of Computer Science, {FOCS} 2011, Palm Springs, CA, USA, October 22-25, 2011}
+      \field{title}{Efficient Reconstruction of Random Multilinear Formulas}
+      \field{year}{2011}
+      \field{pages}{778\bibrangedash 787}
+      \verb{doi}
+      \verb 10.1109/FOCS.2011.70
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1109/FOCS.2011.70
+      \endverb
+    \endentry
+    \entry{GKY14}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=e879c19d2676918825359f7d93d110ca}{Gupta}{G\bibinitperiod}{Ankit}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=132a91296a099d008b0c152b456ec45a}{Kayal}{K\bibinitperiod}{Neeraj}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=ad6f699eda02131cdabb5df68b3967ac}{Qiao}{Q\bibinitperiod}{Youming}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=e879c19d2676918825359f7d93d110ca}{Gupta}{G\bibinitperiod}{Ankit}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=132a91296a099d008b0c152b456ec45a}{Kayal}{K\bibinitperiod}{Neeraj}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=ad6f699eda02131cdabb5df68b3967ac}{Qiao}{Q\bibinitperiod}{Youming}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{publisher}{1}{%
+        {Springer Basel}%
+      }
+      \strng{namehash}{bafac35320c2537fc1c33a819b5b3d08}
+      \strng{fullhash}{bafac35320c2537fc1c33a819b5b3d08}
+      \field{sortinit}{G}
+      \field{labeltitle}{Random arithmetic formulas can be reconstructed efficiently}
+      \field{issn}{1016-3328}
+      \field{journaltitle}{computational complexity}
+      \field{number}{2}
+      \field{title}{Random arithmetic formulas can be reconstructed efficiently}
+      \field{volume}{23}
+      \field{year}{2014}
+      \field{pages}{207\bibrangedash 303}
+      \verb{doi}
+      \verb 10.1007/s00037-014-0085-0
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1007/s00037-014-0085-0
+      \endverb
+      \keyw{Arithmetic formulas; average case; reconstruction; 68Q15; 68W30; 13P99}
+    \endentry
+    \entry{HS80}{inproceedings}{}
+      \name{labelname}{2}{}{%
+        {{hash=b803777ac708d18ae80780123001065a}{Heintz}{H\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=a1a8f97c3d73d17a6a02d648345eeb8b}{Schnorr}{S\bibinitperiod}{C.\bibnamedelimi P.}{C\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=b803777ac708d18ae80780123001065a}{Heintz}{H\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=a1a8f97c3d73d17a6a02d648345eeb8b}{Schnorr}{S\bibinitperiod}{C.\bibnamedelimi P.}{C\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Los Angeles, California, USA}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{21007bab27bec87322bca9022acfccb5}
+      \strng{fullhash}{21007bab27bec87322bca9022acfccb5}
+      \field{sortinit}{H}
+      \field{labeltitle}{Testing Polynomials Which Are Easy to Compute (Extended Abstract)}
+      \field{booktitle}{Proceedings of the Twelfth Annual ACM Symposium on Theory of Computing}
+      \field{isbn}{0-89791-017-6}
+      \field{series}{STOC '80}
+      \field{title}{Testing Polynomials Which Are Easy to Compute (Extended Abstract)}
+      \field{year}{1980}
+      \field{pages}{262\bibrangedash 272}
+      \verb{doi}
+      \verb 10.1145/800141.804674
+      \endverb
+      \verb{url}
+      \verb http://doi.acm.org/10.1145/800141.804674
+      \endverb
+    \endentry
+    \entry{Hildebrand87}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=365600236a92e6ad338d1eeea92567c8}{Hildebrand}{H\bibinitperiod}{Begnaud\bibnamedelima Francis}{B\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=365600236a92e6ad338d1eeea92567c8}{Hildebrand}{H\bibinitperiod}{Begnaud\bibnamedelima Francis}{B\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {Dover Publications, Inc.}%
+      }
+      \strng{namehash}{365600236a92e6ad338d1eeea92567c8}
+      \strng{fullhash}{365600236a92e6ad338d1eeea92567c8}
+      \field{sortinit}{H}
+      \field{labeltitle}{Introduction to Numerical Analysis: 2Nd Edition}
+      \field{isbn}{0-486-65363-3}
+      \field{title}{Introduction to Numerical Analysis: 2Nd Edition}
+      \field{year}{1987}
+    \endentry
+    \entry{Kal91}{inproceedings}{}
+      \name{labelname}{1}{}{%
+        {{hash=e95533ffcd969ba46387ff49b1c25d8d}{Kaltofen}{K\bibinitperiod}{Erich}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=e95533ffcd969ba46387ff49b1c25d8d}{Kaltofen}{K\bibinitperiod}{Erich}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {New Orleans, Louisiana, USA}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{e95533ffcd969ba46387ff49b1c25d8d}
+      \strng{fullhash}{e95533ffcd969ba46387ff49b1c25d8d}
+      \field{sortinit}{K}
+      \field{labeltitle}{Effective Noether Irreducibility Forms and Applications}
+      \field{booktitle}{Proceedings of the Twenty-third Annual ACM Symposium on Theory of Computing}
+      \field{isbn}{0-89791-397-3}
+      \field{series}{STOC '91}
+      \field{title}{Effective Noether Irreducibility Forms and Applications}
+      \field{year}{1991}
+      \field{pages}{54\bibrangedash 63}
+      \verb{doi}
+      \verb 10.1145/103418.103431
+      \endverb
+      \verb{url}
+      \verb http://doi.acm.org/10.1145/103418.103431
+      \endverb
+    \endentry
+    \entry{KalTr90}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=e95533ffcd969ba46387ff49b1c25d8d}{Kaltofen}{K\bibinitperiod}{Erich}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=098373b3d6a18787eca2884bf355b12f}{Trager}{T\bibinitperiod}{Barry\bibnamedelima M.}{B\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=e95533ffcd969ba46387ff49b1c25d8d}{Kaltofen}{K\bibinitperiod}{Erich}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=098373b3d6a18787eca2884bf355b12f}{Trager}{T\bibinitperiod}{Barry\bibnamedelima M.}{B\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Duluth, MN, USA}%
+      }
+      \list{publisher}{1}{%
+        {Academic Press, Inc.}%
+      }
+      \strng{namehash}{50f72b52611cd8c3aae3e9161d12e354}
+      \strng{fullhash}{50f72b52611cd8c3aae3e9161d12e354}
+      \field{sortinit}{K}
+      \field{labeltitle}{Computing with Polynomials Given Byblack Boxes for Their Evaluations: Greatest Common Divisors, Factorization, Separation of Numerators and Denominators}
+      \field{issn}{0747-7171}
+      \field{journaltitle}{J. Symb. Comput.}
+      \field{month}{03}
+      \field{number}{3}
+      \field{title}{Computing with Polynomials Given Byblack Boxes for Their Evaluations: Greatest Common Divisors, Factorization, Separation of Numerators and Denominators}
+      \field{volume}{9}
+      \field{year}{1990}
+      \field{pages}{301\bibrangedash 320}
+      \verb{doi}
+      \verb 10.1016/S0747-7171(08)80015-6
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1016/S0747-7171(08)80015-6
+      \endverb
+    \endentry
+    \entry{KarShp09}{inproceedings}{}
+      \name{labelname}{2}{}{%
+        {{hash=0557f2444213b7f80ede597e649f96f0}{Karnin}{K\bibinitperiod}{Zohar\bibnamedelima S.}{Z\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=6926c3d236eb16c0bda5cc1284784fac}{Shpilka}{S\bibinitperiod}{Amir}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=0557f2444213b7f80ede597e649f96f0}{Karnin}{K\bibinitperiod}{Zohar\bibnamedelima S.}{Z\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=6926c3d236eb16c0bda5cc1284784fac}{Shpilka}{S\bibinitperiod}{Amir}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{26af8c651bdf7b1439dbbef27942eb9a}
+      \strng{fullhash}{26af8c651bdf7b1439dbbef27942eb9a}
+      \field{sortinit}{K}
+      \field{labeltitle}{Reconstruction of Generalized Depth-3 Arithmetic Circuits with Bounded Top Fan-in}
+      \field{booktitle}{Proceedings of the 24rd Annual CCC}
+      \field{title}{Reconstruction of Generalized Depth-3 Arithmetic Circuits with Bounded Top Fan-in}
+      \field{year}{2009}
+      \field{pages}{274\bibrangedash 285}
+    \endentry
+    \entry{KV94}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=17efa7d29b8763456cc47d49b27ade63}{Kearns}{K\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=057e02fa89c89ae420a8fe0f09b1d586}{Valiant}{V\bibinitperiod}{Leslie}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=17efa7d29b8763456cc47d49b27ade63}{Kearns}{K\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=057e02fa89c89ae420a8fe0f09b1d586}{Valiant}{V\bibinitperiod}{Leslie}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{1988da6a9973af31c0c02d80474b0c15}
+      \strng{fullhash}{1988da6a9973af31c0c02d80474b0c15}
+      \field{sortinit}{K}
+      \field{labeltitle}{Cryptographic Limitations on Learning Boolean Formulae and Finite Automata}
+      \field{issn}{0004-5411}
+      \field{journaltitle}{J. ACM}
+      \field{month}{01}
+      \field{number}{1}
+      \field{title}{Cryptographic Limitations on Learning Boolean Formulae and Finite Automata}
+      \field{volume}{41}
+      \field{year}{1994}
+      \field{pages}{67\bibrangedash 95}
+      \verb{doi}
+      \verb 10.1145/174644.174647
+      \endverb
+      \verb{url}
+      \verb http://doi.acm.org/10.1145/174644.174647
+      \endverb
+    \endentry
+    \entry{Khar92}{inproceedings}{}
+      \name{labelname}{1}{}{%
+        {{hash=e602835aa2b656af83e7df59180914fa}{Kharitonov}{K\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=e602835aa2b656af83e7df59180914fa}{Kharitonov}{K\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Pittsburgh, Pennsylvania, USA}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{e602835aa2b656af83e7df59180914fa}
+      \strng{fullhash}{e602835aa2b656af83e7df59180914fa}
+      \field{sortinit}{K}
+      \field{labeltitle}{Cryptographic Lower Bounds for Learnability of Boolean Functions on the Uniform Distribution}
+      \field{booktitle}{Proceedings of the Fifth Annual Workshop on Computational Learning Theory}
+      \field{isbn}{0-89791-497-X}
+      \field{series}{COLT '92}
+      \field{title}{Cryptographic Lower Bounds for Learnability of Boolean Functions on the Uniform Distribution}
+      \field{year}{1992}
+      \field{pages}{29\bibrangedash 36}
+      \verb{doi}
+      \verb 10.1145/130385.130388
+      \endverb
+      \verb{url}
+      \verb http://doi.acm.org/10.1145/130385.130388
+      \endverb
+    \endentry
+    \entry{KS01}{inproceedings}{}
+      \name{labelname}{2}{}{%
+        {{hash=afa03e07f96d44eb8bae5bb0cb004039}{Klivans}{K\bibinitperiod}{Adam\bibnamedelima R.}{A\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=e0e0891c0cc6a5702262bce678f18f0c}{Spielman}{S\bibinitperiod}{Daniel}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=afa03e07f96d44eb8bae5bb0cb004039}{Klivans}{K\bibinitperiod}{Adam\bibnamedelima R.}{A\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=e0e0891c0cc6a5702262bce678f18f0c}{Spielman}{S\bibinitperiod}{Daniel}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Hersonissos, Greece}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{2fc9e58f8bd7a8ee395fea4157dff01f}
+      \strng{fullhash}{2fc9e58f8bd7a8ee395fea4157dff01f}
+      \field{sortinit}{K}
+      \field{labeltitle}{Randomness Efficient Identity Testing of Multivariate Polynomials}
+      \field{booktitle}{Proceedings of the Thirty-third Annual ACM Symposium on Theory of Computing}
+      \field{isbn}{1-58113-349-9}
+      \field{series}{STOC '01}
+      \field{title}{Randomness Efficient Identity Testing of Multivariate Polynomials}
+      \field{year}{2001}
+      \field{pages}{216\bibrangedash 223}
+      \verb{doi}
+      \verb 10.1145/380752.380801
+      \endverb
+      \verb{url}
+      \verb http://doi.acm.org/10.1145/380752.380801
+      \endverb
+    \endentry
+    \entry{KS06}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=1c3f0e4aae8a0b00953428cb674f1d19}{Klivans}{K\bibinitperiod}{Adam}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=6926c3d236eb16c0bda5cc1284784fac}{Shpilka}{S\bibinitperiod}{Amir}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=1c3f0e4aae8a0b00953428cb674f1d19}{Klivans}{K\bibinitperiod}{Adam}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=6926c3d236eb16c0bda5cc1284784fac}{Shpilka}{S\bibinitperiod}{Amir}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{f74c524914f0f0c77f5e917bad611280}
+      \strng{fullhash}{f74c524914f0f0c77f5e917bad611280}
+      \field{sortinit}{K}
+      \field{labeltitle}{Learning restricted models of arithmetic circuits.}
+      \field{journaltitle}{Theory of computing}
+      \field{number}{10}
+      \field{title}{Learning restricted models of arithmetic circuits.}
+      \field{volume}{2}
+      \field{year}{2006}
+      \field{pages}{185\bibrangedash 206}
+      \verb{file}
+      \verb http://www.cs.tau.ac.il/~shpilka/publications/KlivansShpilka_Learning_via_partial_derivatives.pdf
+      \endverb
+    \endentry
+    \entry{KSS14}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=365daa0b23f7cc9fee01b744a984fe03}{Kopparty}{K\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=5e3d34c6d491398b577f3d4b9fb76f31}{Saraf}{S\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=ed40669415fc99a9ee48f9196c0d9818}{Shpilka}{S\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=365daa0b23f7cc9fee01b744a984fe03}{Kopparty}{K\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=5e3d34c6d491398b577f3d4b9fb76f31}{Saraf}{S\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=ed40669415fc99a9ee48f9196c0d9818}{Shpilka}{S\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{46205634adcde8c366244eb0d804cb1a}
+      \strng{fullhash}{46205634adcde8c366244eb0d804cb1a}
+      \field{sortinit}{K}
+      \field{labeltitle}{Equivalence of Polynomial Identity Testing and Deterministic Multivariate Polynomial Factorization}
+      \field{booktitle}{Computational Complexity (CCC), 2014 IEEE 29th Conference on}
+      \field{month}{06}
+      \field{title}{Equivalence of Polynomial Identity Testing and Deterministic Multivariate Polynomial Factorization}
+      \field{year}{2014}
+      \field{pages}{169\bibrangedash 180}
+      \verb{doi}
+      \verb 10.1109/CCC.2014.25
+      \endverb
+      \keyw{circuit complexity;deterministic algorithms;matrix decomposition;polynomials;arithmetic circuit;arithmetic complexity;black-box algorithm;central derandomization problems;deterministic algorithm;deterministic multivariate polynomial factorization;deterministic polynomial identity testing;multilinear circuits;white-box algorithm;Complexity theory;Computational modeling;Computer science;Integrated circuit modeling;Logic gates;Polynomials;Testing;Polynomial identity testing;arithmetic circuits;factoring}
+    \endentry
+    \entry{MulPa13}{book}{}
+      \name{labelname}{2}{}{%
+        {{hash=d4b34d36911924cc9f4a6e9dfcda3648}{Mullen}{M\bibinitperiod}{Gary\bibnamedelima L.}{G\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=f73787ed4e26739334aef8b598b841c8}{Panario}{P\bibinitperiod}{Daniel}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=d4b34d36911924cc9f4a6e9dfcda3648}{Mullen}{M\bibinitperiod}{Gary\bibnamedelima L.}{G\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=f73787ed4e26739334aef8b598b841c8}{Panario}{P\bibinitperiod}{Daniel}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Chapman \& Hall/CRC}%
+      }
+      \strng{namehash}{2c3b5069183aec7e4aeeacf69cd9ac5b}
+      \strng{fullhash}{2c3b5069183aec7e4aeeacf69cd9ac5b}
+      \field{sortinit}{M}
+      \field{labeltitle}{Handbook of Finite Fields}
+      \field{edition}{1st}
+      \field{isbn}{143987378X, 9781439873786}
+      \field{title}{Handbook of Finite Fields}
+      \field{year}{2013}
+    \endentry
+    \entry{SS10}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=72d1eef2e218521619ddc0b9bebf0b3a}{Saxena}{S\bibinitperiod}{Nitin}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=02c43a6d185fd9e7125a580141c12cae}{Seshadhri}{S\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=72d1eef2e218521619ddc0b9bebf0b3a}{Saxena}{S\bibinitperiod}{Nitin}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=02c43a6d185fd9e7125a580141c12cae}{Seshadhri}{S\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{d115b1055af5a2d50477d99d22148ff1}
+      \strng{fullhash}{d115b1055af5a2d50477d99d22148ff1}
+      \field{sortinit}{S}
+      \field{labeltitle}{From Sylvester-gallai Configurations to Rank Bounds: Improved Blackbox Identity Test for Depth-3 Circuits}
+      \field{issn}{0004-5411}
+      \field{journaltitle}{J. ACM}
+      \field{month}{10}
+      \field{number}{5}
+      \field{title}{From Sylvester-gallai Configurations to Rank Bounds: Improved Blackbox Identity Test for Depth-3 Circuits}
+      \field{volume}{60}
+      \field{year}{2013}
+      \field{pages}{33:1\bibrangedash 33:33}
+      \verb{doi}
+      \verb 10.1145/2528403
+      \endverb
+      \verb{url}
+      \verb http://doi.acm.org/10.1145/2528403
+      \endverb
+      \keyw{Chinese remaindering,Sylvester-Gallai,combinatorial design,depth-3 circuit,ideal theory,identities,incidence geometry}
+    \endentry
+    \entry{SchSe96}{inproceedings}{}
+      \name{labelname}{2}{}{%
+        {{hash=8112f3ade8b9d0f5e71791274d4e05f0}{Schapire}{S\bibinitperiod}{Robert\bibnamedelima E.}{R\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=8a822be0c531609bfa2d17e2356efc29}{Sellie}{S\bibinitperiod}{Linda\bibnamedelima M.}{L\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=8112f3ade8b9d0f5e71791274d4e05f0}{Schapire}{S\bibinitperiod}{Robert\bibnamedelima E.}{R\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=8a822be0c531609bfa2d17e2356efc29}{Sellie}{S\bibinitperiod}{Linda\bibnamedelima M.}{L\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{4d87715bbfc47759a39493bbc36d8462}
+      \strng{fullhash}{4d87715bbfc47759a39493bbc36d8462}
+      \field{sortinit}{S}
+      \field{labeltitle}{Learning Sparse Multivariate Polynomials over a Field with Queries and Counterexamples}
+      \field{booktitle}{In Proceedings of the Sixth Annual ACM Workshop on Computational Learning Theory}
+      \field{title}{Learning Sparse Multivariate Polynomials over a Field with Queries and Counterexamples}
+      \field{year}{1996}
+      \field{pages}{17\bibrangedash 26}
+    \endentry
+    \entry{Shpilka07}{inproceedings}{}
+      \name{labelname}{1}{}{%
+        {{hash=6926c3d236eb16c0bda5cc1284784fac}{Shpilka}{S\bibinitperiod}{Amir}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=6926c3d236eb16c0bda5cc1284784fac}{Shpilka}{S\bibinitperiod}{Amir}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {ACM Press}%
+      }
+      \strng{namehash}{6926c3d236eb16c0bda5cc1284784fac}
+      \strng{fullhash}{6926c3d236eb16c0bda5cc1284784fac}
+      \field{sortinit}{S}
+      \field{labeltitle}{Interpolation of depth-3 arithmetic circuits with two multiplication gates}
+      \field{booktitle}{In STOC ’07: Proceedings of the thirty-ninth annual ACM symposium on Theory of computing}
+      \field{title}{Interpolation of depth-3 arithmetic circuits with two multiplication gates}
+      \field{year}{2007}
+      \field{pages}{284\bibrangedash 293}
+    \endentry
+    \entry{SV09}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=6926c3d236eb16c0bda5cc1284784fac}{Shpilka}{S\bibinitperiod}{Amir}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=499cc9ab7f4c88a73656c97e0700c0ce}{Volkovich}{V\bibinitperiod}{Ilya}{I\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=6926c3d236eb16c0bda5cc1284784fac}{Shpilka}{S\bibinitperiod}{Amir}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=499cc9ab7f4c88a73656c97e0700c0ce}{Volkovich}{V\bibinitperiod}{Ilya}{I\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{8e184c4b0bf3982f70cba8c9c41d53d4}
+      \strng{fullhash}{8e184c4b0bf3982f70cba8c9c41d53d4}
+      \field{sortinit}{S}
+      \field{labeltitle}{Improved polynomial identity testing for read-once formulas}
+      \field{booktitle}{In APPROX-RANDOM}
+      \field{title}{Improved polynomial identity testing for read-once formulas}
+      \field{year}{2009}
+      \field{pages}{700\bibrangedash 713}
+    \endentry
+    \entry{SY10}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=6926c3d236eb16c0bda5cc1284784fac}{Shpilka}{S\bibinitperiod}{Amir}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=8fea19bbf1f84f9f59e959335022dd6f}{Yehudayoff}{Y\bibinitperiod}{Amir}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=6926c3d236eb16c0bda5cc1284784fac}{Shpilka}{S\bibinitperiod}{Amir}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=8fea19bbf1f84f9f59e959335022dd6f}{Yehudayoff}{Y\bibinitperiod}{Amir}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3e8ad1e3cdd93f662b5506be8dd61292}
+      \strng{fullhash}{3e8ad1e3cdd93f662b5506be8dd61292}
+      \field{sortinit}{S}
+      \field{labeltitle}{Arithmetic Circuits: A Survey of Recent Results and Open Questions}
+      \field{issn}{1551-305X}
+      \field{journaltitle}{Foundations and Trends in Theoretical Computer Science}
+      \field{number}{3–4}
+      \field{title}{Arithmetic Circuits: A Survey of Recent Results and Open Questions}
+      \field{volume}{5}
+      \field{year}{2010}
+      \field{pages}{207\bibrangedash 388}
+      \verb{doi}
+      \verb 10.1561/0400000039
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1561/0400000039
+      \endverb
+    \endentry
+    \entry{Sud98}{inbook}{}
+      \name{labelname}{1}{}{%
+        {{hash=8753fbfaaa4aa8a1195c657edc9daef4}{Sudan}{S\bibinitperiod}{Madhu}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=8753fbfaaa4aa8a1195c657edc9daef4}{Sudan}{S\bibinitperiod}{Madhu}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{8753fbfaaa4aa8a1195c657edc9daef4}
+      \strng{fullhash}{8753fbfaaa4aa8a1195c657edc9daef4}
+      \field{sortinit}{S}
+      \field{labeltitle}{Algebra and Computation}
+      \field{title}{Algebra and Computation}
+      \field{year}{1998}
+      \verb{url}
+      \verb http://people.csail.mit.edu/madhu/FT98/
+      \endverb
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

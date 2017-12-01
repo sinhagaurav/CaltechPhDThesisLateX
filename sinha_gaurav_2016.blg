@@ -1,0 +1,36 @@
+[0] Config.pm:318> INFO - This is Biber 1.8
+[0] Config.pm:321> INFO - Logfile is 'sinha_gaurav_2016.blg'
+[31] biber:275> INFO - === Wed Jun  8, 2016, 03:21:19
+[31] Biber.pm:333> INFO - Reading 'sinha_gaurav_2016.bcf'
+[65] Biber.pm:630> INFO - Found 5 citekeys in bib section 0
+[65] Biber.pm:630> INFO - Found 1 citekeys in bib section 1
+[66] Biber.pm:630> INFO - Found 24 citekeys in bib section 0
+[66] Biber.pm:630> INFO - Found 1 citekeys in bib section 2
+[66] Biber.pm:630> INFO - Found 1 citekeys in bib section 0
+[75] Biber.pm:3053> INFO - Processing section 0
+[84] Biber.pm:3190> INFO - Looking for bibtex format file 'thesis.bib' for section 0
+[87] bibtex.pm:933> INFO - Decoding LaTeX character macros into UTF-8
+[91] bibtex.pm:808> INFO - Found BibTeX data source 'thesis.bib'
+[92] Utils.pm:169> WARN - Duplicate entry key: 'BDWY11' in file 'thesis.bib', skipping ...
+[93] Utils.pm:169> WARN - Duplicate entry key: 'BDWY11' in file 'thesis.bib', skipping ...
+[118] bibtex.pm:933> INFO - Decoding LaTeX character macros into UTF-8
+[118] bibtex.pm:808> INFO - Found BibTeX data source 'ownpubs.bib'
+[119] Utils.pm:169> WARN - I didn't find a database entry for crossref 'DBLP:conf/focs/2011' in entry 'GuptaKL11' - ignoring (section 0)
+[157] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[157] Biber.pm:2945> INFO - Sorting 'entry' list 'nty' keys
+[158] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
+[211] Biber.pm:3053> INFO - Processing section 1
+[211] Biber.pm:3190> INFO - Looking for bibtex format file 'thesis.bib' for section 1
+[212] Biber.pm:3190> INFO - Looking for bibtex format file 'ownpubs.bib' for section 1
+[220] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[220] Biber.pm:2945> INFO - Sorting 'entry' list 'nty' keys
+[220] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
+[222] Biber.pm:3053> INFO - Processing section 2
+[222] Biber.pm:3190> INFO - Looking for bibtex format file 'thesis.bib' for section 2
+[223] Biber.pm:3190> INFO - Looking for bibtex format file 'ownpubs.bib' for section 2
+[231] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[231] Biber.pm:2945> INFO - Sorting 'entry' list 'nty' keys
+[231] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
+[233] bbl.pm:482> INFO - Writing 'sinha_gaurav_2016.bbl' with encoding 'UTF-8'
+[238] bbl.pm:555> INFO - Output to sinha_gaurav_2016.bbl
+[238] Biber.pm:105> INFO - WARNINGS: 3

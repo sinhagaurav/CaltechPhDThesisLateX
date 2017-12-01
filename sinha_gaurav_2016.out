@@ -1,0 +1,36 @@
+\BOOKMARK [0][-]{chapter*.1}{Acknowledgements}{}% 1
+\BOOKMARK [0][-]{chapter*.2}{Abstract}{}% 2
+\BOOKMARK [0][-]{section*.4}{Table of Contents}{}% 3
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 4
+\BOOKMARK [1][-]{section.1.1}{Previous Work and Connections}{chapter.1}% 5
+\BOOKMARK [1][-]{section.1.2}{Allowing Randomization}{chapter.1}% 6
+\BOOKMARK [1][-]{section.1.3}{Preliminaries}{chapter.1}% 7
+\BOOKMARK [1][-]{section.1.4}{A quick introduction to arithmetic circuits}{chapter.1}% 8
+\BOOKMARK [1][-]{section.1.5}{Homogenization of \(2\) circuits}{chapter.1}% 9
+\BOOKMARK [0][-]{chapter.2}{Some Definitions, Main Tools and Techniques}{}% 10
+\BOOKMARK [1][-]{section.2.1}{Introduction}{chapter.2}% 11
+\BOOKMARK [1][-]{section.2.2}{Uniqueness of \(2\) Structure}{chapter.2}% 12
+\BOOKMARK [1][-]{section.2.3}{Factoring forms of a polynomial}{chapter.2}% 13
+\BOOKMARK [1][-]{section.2.4}{ Good forms and reconstructed multi-set}{chapter.2}% 14
+\BOOKMARK [0][-]{chapter.3}{Main result and overview}{}% 15
+\BOOKMARK [1][-]{section.3.1}{Overview of the algorithm }{chapter.3}% 16
+\BOOKMARK [0][-]{chapter.4}{Step One : Reconstruct the I^st Layer of C }{}% 17
+\BOOKMARK [1][-]{section.4.1}{Introduction}{chapter.4}% 18
+\BOOKMARK [1][-]{section.4.2}{Random Transformation}{chapter.4}% 19
+\BOOKMARK [1][-]{section.4.3}{Restricting the input polynomial}{chapter.4}% 20
+\BOOKMARK [1][-]{section.4.4}{Computing the sets Metapost_i. }{chapter.4}% 21
+\BOOKMARK [1][-]{section.4.5}{Gluing Metapost_i's to compute Metapost}{chapter.4}% 22
+\BOOKMARK [0][-]{chapter.5}{Step Two : Reconstruct Layer II of C}{}% 23
+\BOOKMARK [1][-]{section.5.1}{Introduction}{chapter.5}% 24
+\BOOKMARK [1][-]{section.5.2}{Lines connecting forms in P\(R\) \(P\(B\) resp.\) to P\(M_2\)\(P\(M_1\) resp.\) }{chapter.5}% 25
+\BOOKMARK [1][-]{section.5.3}{Termination Case : Reconstructing one of P\(M_1\),P\(M_2\) does the job}{chapter.5}% 26
+\BOOKMARK [1][-]{section.5.4}{One of the multi-sets P\(R\),P\(B\) is low dimensional}{chapter.5}% 27
+\BOOKMARK [1][-]{section.5.5}{Both multi-sets P\(R\),P\(B\) are high dimensional}{chapter.5}% 28
+\BOOKMARK [0][-]{section*.16}{Bibliography}{}% 29
+\BOOKMARK [0][-]{appendix.A}{Random Transformation and Restrictions}{}% 30
+\BOOKMARK [0][-]{appendix.B}{Brill's Equations - Characterizing polynomials which are product of linear forms}{}% 31
+\BOOKMARK [0][-]{appendix.C}{Black-box Factoring of Polynomials}{}% 32
+\BOOKMARK [0][-]{appendix*.20}{Published Content and Contributions}{}% 33
+\BOOKMARK [0][-]{appendix.D}{Proofs from Chapter IV}{}% 34
+\BOOKMARK [0][-]{appendix.E}{Proofs from Chapter V}{}% 35
+\BOOKMARK [0][-]{appendix.F}{Tools from Incidence Geometry}{}% 36
